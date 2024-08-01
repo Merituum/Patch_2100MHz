@@ -1,0 +1,59 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "GL",
+         "type": "float",
+         "value": 67.9
+      },
+      {
+         "name": "GW",
+         "type": "float",
+         "value": 77.2
+      },
+      {
+         "name": "GH",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "PW",
+         "type": "float",
+         "value": 42.8
+      },
+      {
+         "name": "PL",
+         "type": "float",
+         "value": 33.5
+      },
+      {
+         "name": "l_wave_theoretical",
+         "type": "float",
+         "value": 139.0
+      },
+      {
+         "name": "VAC_L",
+         "type": "float",
+         "value": 11.1
+      },
+      {
+         "name": "VAC_W",
+         "type": "float",
+         "value": 0.78
+      },
+      {
+         "name": "Mt",
+         "type": "string",
+         "value": "0,105"
+      },
+      {
+         "name": "SW",
+         "type": "float",
+         "value": 1.6
+      }
+   ],
+   "outputVariables": []
+}

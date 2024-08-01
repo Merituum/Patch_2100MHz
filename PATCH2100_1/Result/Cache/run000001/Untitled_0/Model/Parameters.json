@@ -1,0 +1,64 @@
+{
+    "parameters": [
+        {
+            "descr": "Y",
+            "expr": "66.4",
+            "name": "GL",
+            "value": "66.4"
+        },
+        {
+            "descr": "X",
+            "expr": "75.7",
+            "name": "GW",
+            "value": "75.7"
+        },
+        {
+            "expr": "1",
+            "name": "GH",
+            "value": "1"
+        },
+        {
+            "descr": "X",
+            "expr": "42",
+            "name": "PW",
+            "value": "42"
+        },
+        {
+            "descr": "Y",
+            "expr": "32.7",
+            "name": "PL",
+            "value": "32.7"
+        },
+        {
+            "expr": "139",
+            "name": "l_wave",
+            "value": "139"
+        },
+        {
+            "expr": "0",
+            "name": "SL",
+            "value": "0"
+        },
+        {
+            "expr": "10.9",
+            "name": "VAC_L",
+            "value": "10.9"
+        },
+        {
+            "expr": "0.75",
+            "name": "VAC_W",
+            "value": "0.75"
+        },
+        {
+            "expr": "0,105",
+            "name": "Mt",
+            "value": "0.105"
+        },
+        {
+            "expr": "1.5",
+            "name": "SW",
+            "value": "1.5"
+        }
+    ],
+    "version": 1
+}

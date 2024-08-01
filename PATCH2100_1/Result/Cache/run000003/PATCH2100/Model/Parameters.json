@@ -1,0 +1,64 @@
+{
+    "parameters": [
+        {
+            "descr": "Y",
+            "expr": "67.9",
+            "name": "GL",
+            "value": "67.9"
+        },
+        {
+            "descr": "X",
+            "expr": "77.2",
+            "name": "GW",
+            "value": "77.2"
+        },
+        {
+            "expr": "1",
+            "name": "GH",
+            "value": "1"
+        },
+        {
+            "descr": "X",
+            "expr": "42.8",
+            "name": "PW",
+            "value": "42.8"
+        },
+        {
+            "descr": "Y",
+            "expr": "33.5",
+            "name": "PL",
+            "value": "33.5"
+        },
+        {
+            "expr": "139",
+            "name": "l_wave_theoretical",
+            "value": "139"
+        },
+        {
+            "expr": "0.019317575",
+            "name": "SL",
+            "value": "0.019317575"
+        },
+        {
+            "expr": "11.1",
+            "name": "VAC_L",
+            "value": "11.1"
+        },
+        {
+            "expr": "0.78",
+            "name": "VAC_W",
+            "value": "0.78"
+        },
+        {
+            "expr": "0,105",
+            "name": "Mt",
+            "value": "0.105"
+        },
+        {
+            "expr": "0.00139977",
+            "name": "SW",
+            "value": "0.00139977"
+        }
+    ],
+    "version": 1
+}
